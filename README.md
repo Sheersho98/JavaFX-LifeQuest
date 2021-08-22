@@ -4,14 +4,14 @@ LifeQuest is a JavaFX based desktop application that allows users to "gamify" th
 
 Overall, LifeQuest is a CRUD management application for managing your day to day task. It adds a bit of a twist by gamifying the entire experience.
 
-Technologies Used:
+## Technologies Used:
 
 Java </br>
 JavaFX </br>
 SceneBuilder </br>
 mySQL </br>
 
-To run the code:
+## To run the code:
 
 Clone the repo/Download the zip </br>
 import the lifequest.sql file found in the src folder </br>
