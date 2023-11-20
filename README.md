@@ -12,9 +12,3 @@ Java </br>
 JavaFX </br>
 SceneBuilder </br>
 mySQL </br>
-
-## To run the code:
-
-Clone the repo/Download the zip </br>
-import the lifequest.sql file found in the src folder </br>
-Run the project folder in Netbeans
